@@ -9,3 +9,4 @@ It is advised to download the all contents and then putting sounds folder and py
 I am attaching comphrensive tutorial of ICA along with PCA, two algorithms of unsupervised learning. ICA is a signal separation technique which stands on the bases of statistical independence. 
 All the recieved sound or any other signals should be non-gaussain. Input signals are passed through some preprocessing steps i.e.. normalisation and whitening. The main idea behind algorithm is central limit theorm. 
 For measure of non-gaussianity negentropy is used here, kurtosys is also a measure. 
+https://arxiv.org/pdf/1404.2986.pdf
