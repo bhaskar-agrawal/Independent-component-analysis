@@ -23,6 +23,8 @@ Steps to run this code:
 1.It is advised to download the all contents, by cloning the whole repository.
 2.Run this python notebook on jupyter notebook or google collab, in case of google collab first put this full folder on google drive. Then open google collab https://colab.research.google.com/notebooks/intro.ipynb#recent=true, and find this notebook to run. 
 
+More examples on similar dataset can be found on this link:https://cnl.salk.edu/~tewon/Blind/blind_audio.html
+
 Problems that can occur:
 1.There might be problem in playing of the sounds apart from VLC media player. 
 2.There might be error in running notebook on google collab in that case change the directories.
