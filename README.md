@@ -8,7 +8,7 @@ So first of all, our signals here are the sounds coming from different sources. 
 
 Note the implicit assumptions that we have made here:
 
-1) There are as many microphoneses as there are independent conversations(sources) going on in the room. T We can say that our system is critically determined(and is not under- or over- determined).
+1) There are as many microphoneses as there are independent conversations(sources) going on in the room.We can say that our system is critically determined(and is not under- or over- determined).
 2) Each microphone records a reasonably distinct combination of the independent signals. This simply amounts to not keeping two microphones too close to each other. Due to practical computational limits (see floating point math), it is always best to have easily distinguishable recordings.
 One very important thing: We assume that the sound that any receiver records is a linear combination of sounds from the different sources. This is a reasonable assumption to make as pressure adds linearly. Each receiver will receive a different linear combination: If the first receiver is closer to a particular speaker than the second receiver, then the linear weight of this speaker will be proportionately higher for the first receiver.
 
